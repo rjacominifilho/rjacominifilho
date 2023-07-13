@@ -1,6 +1,6 @@
 ![MasterHead](https://www.indiumsoftware.com/wp-content/uploads/2022/08/115-7-Reasons-Why-Software-Testing-is-Important.jpg)
 <h1 align="center">Hi 👋, I'm Rodrigo Jacomini</h1>
-<h3 align="center">A Quality Assured from Brazil</h3>
+<h3 align="center">A QA from Brazil</h3>
 
 <img align="right" alt="Digital Platforms" width="400" src="https://media.tenor.com/B_JetO57I3IAAAAM/test-homer-simpson.gif">
 
