@@ -8,13 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Caixa Econômica Federal (SIMOB)**
+- 🔭 I’m currently working on **Montreal Tecnologia (Brasília)**
 
 - 🌱 I’m currently learning **Robot Framework, Selenium, Java, Software Engineering, English**
-
-- 🤝 I’m looking for help with **Robot Framework, Selenium WebDriver, Pyhton, Java**
-
-- 💬 Ask me about **Software Tests, Web Tests with Robot, Mobile Tests with Robot**
 
 - 📫 How to reach me **rjacominifilho@gmail.com**
 
